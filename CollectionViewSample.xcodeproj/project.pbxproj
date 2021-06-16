@@ -25,9 +25,9 @@
 		7869A8AB26424EF9006A78BB /* italy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8AA26424EF9006A78BB /* italy.jpg */; };
 		7869A8B226424F1A006A78BB /* iceland.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8AC26424F19006A78BB /* iceland.jpg */; };
 		7869A8B326424F1A006A78BB /* paris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8AD26424F19006A78BB /* paris.jpg */; };
-		7869A8B426424F1A006A78BB /* peru.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8AE26424F19006A78BB /* peru.jpg */; };
+		7869A8B426424F1A006A78BB /* cusco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8AE26424F19006A78BB /* cusco.jpg */; };
 		7869A8B526424F1A006A78BB /* st-lucia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8AF26424F19006A78BB /* st-lucia.jpg */; };
-		7869A8B626424F1A006A78BB /* japan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8B026424F1A006A78BB /* japan.jpg */; };
+		7869A8B626424F1A006A78BB /* tokyo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8B026424F1A006A78BB /* tokyo.jpg */; };
 		7869A8B726424F1A006A78BB /* vietnam.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8B126424F1A006A78BB /* vietnam.jpg */; };
 		7869A8B926426915006A78BB /* cambodia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8B826426915006A78BB /* cambodia.jpg */; };
 		7869A8BB26426921006A78BB /* bali.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7869A8BA26426921006A78BB /* bali.jpg */; };
@@ -75,9 +75,9 @@
 		7869A8AA26424EF9006A78BB /* italy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = italy.jpg; sourceTree = "<group>"; };
 		7869A8AC26424F19006A78BB /* iceland.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = iceland.jpg; sourceTree = "<group>"; };
 		7869A8AD26424F19006A78BB /* paris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paris.jpg; sourceTree = "<group>"; };
-		7869A8AE26424F19006A78BB /* peru.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = peru.jpg; sourceTree = "<group>"; };
+		7869A8AE26424F19006A78BB /* cusco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cusco.jpg; sourceTree = "<group>"; };
 		7869A8AF26424F19006A78BB /* st-lucia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "st-lucia.jpg"; sourceTree = "<group>"; };
-		7869A8B026424F1A006A78BB /* japan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = japan.jpg; sourceTree = "<group>"; };
+		7869A8B026424F1A006A78BB /* tokyo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tokyo.jpg; sourceTree = "<group>"; };
 		7869A8B126424F1A006A78BB /* vietnam.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vietnam.jpg; sourceTree = "<group>"; };
 		7869A8B826426915006A78BB /* cambodia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cambodia.jpg; sourceTree = "<group>"; };
 		7869A8BA26426921006A78BB /* bali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bali.jpg; sourceTree = "<group>"; };
@@ -175,10 +175,10 @@
 				7869A8AF26424F19006A78BB /* st-lucia.jpg */,
 				7869A8B126424F1A006A78BB /* vietnam.jpg */,
 				7869A8BA26426921006A78BB /* bali.jpg */,
-				7869A8B026424F1A006A78BB /* japan.jpg */,
+				7869A8B026424F1A006A78BB /* tokyo.jpg */,
 				7869A8BC2642692C006A78BB /* new-zealand.jpg */,
 				7869A8AC26424F19006A78BB /* iceland.jpg */,
-				7869A8AE26424F19006A78BB /* peru.jpg */,
+				7869A8AE26424F19006A78BB /* cusco.jpg */,
 			);
 			path = "Asset Images";
 			sourceTree = "<group>";
@@ -318,8 +318,8 @@
 				7869A8A926424EDE006A78BB /* cork.jpg in Resources */,
 				7869A8B326424F1A006A78BB /* paris.jpg in Resources */,
 				7869A8B926426915006A78BB /* cambodia.jpg in Resources */,
-				7869A8B626424F1A006A78BB /* japan.jpg in Resources */,
-				7869A8B426424F1A006A78BB /* peru.jpg in Resources */,
+				7869A8B626424F1A006A78BB /* tokyo.jpg in Resources */,
+				7869A8B426424F1A006A78BB /* cusco.jpg in Resources */,
 				780E21DF26291CEE009E1706 /* Assets.xcassets in Resources */,
 				7869A8BB26426921006A78BB /* bali.jpg in Resources */,
 			);

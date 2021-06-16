@@ -46,6 +46,7 @@ extension PostGridViewController {
         collectionView = UICollectionView(frame: view.bounds, collectionViewLayout: createLayout())
         collectionView.autoresizingMask = [.flexibleWidth, .flexibleHeight]
         collectionView.backgroundColor = .systemBackground
+        collectionView.prefetchDataSource = self
         view.addSubview(collectionView)
     }
     
