@@ -14,10 +14,10 @@ struct SampleData {
     ])
     
     static let postsStore = AnyModelStore([
-        DestinationPost(id: "a", region: "Peru", subregion: "Cusco", numberOfLikes: 31, assetID: "peru"),
+        DestinationPost(id: "a", region: "Peru", subregion: "Cusco", numberOfLikes: 31, assetID: "cusco"),
         DestinationPost(id: "b", region: "Caribbean", subregion: "Saint Lucia", numberOfLikes: 25, assetID: "st-lucia"),
         
-        DestinationPost(id: "c", region: "Japan", subregion: "Tokyo", numberOfLikes: 16, assetID: "japan"),
+        DestinationPost(id: "c", region: "Japan", subregion: "Tokyo", numberOfLikes: 16, assetID: "tokyo"),
         DestinationPost(id: "d", region: "Iceland", subregion: "Reykjavík", numberOfLikes: 9, assetID: "iceland"),
         DestinationPost(id: "e", region: "France", subregion: "Paris", numberOfLikes: 14, assetID: "paris"),
         DestinationPost(id: "f", region: "Italy", subregion: "Capri", numberOfLikes: 11, assetID: "italy"),
